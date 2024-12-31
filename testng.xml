@@ -4,7 +4,7 @@
 <listeners>
 		<listener class-name="healthinterface.doctorweb.ListenerClass"></listener>
 	</listeners>
-  <test thread-count="5" name="Testing">
+  <test thread-count="5" name="testcases">
    <parameter name="weburl" value="https://pf.healthinterface.com/"></parameter>
 
        <groups>
