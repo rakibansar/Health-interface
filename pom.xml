@@ -24,7 +24,6 @@
   <version>0.0.1-SNAPSHOT</version>
 
   <name>doctorweb</name>
-  <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
@@ -32,7 +31,24 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
+
   <build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.10.1</version> 
+            <configuration>
+                <source>17</source> 
+                <target>17</target> 
+            </configuration>
+        </plugin>
+    </plugins>
+  </build>
+	<dependencies>
+		</dependencies>
+
+</project>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
