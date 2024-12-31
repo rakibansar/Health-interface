@@ -1,0 +1,234 @@
+13:35:48.320 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+13:35:49.839 [main] INFO  -  Login page 
+13:35:49.944 [main] INFO  - testlabuser@yopmail.com
+13:35:50.001 [main] INFO  - Art@1234
+13:35:50.363 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+13:36:01.814 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 14:30:00 and appointment ID is 1965
+13:36:09.714 [main] INFO  -  not found 
+13:36:09.768 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:36:10.807 [main] INFO  -  not found 
+13:36:10.871 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:36:11.914 [main] INFO  -  not found 
+13:36:11.994 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:36:13.028 [main] INFO  -  not found 
+13:36:13.085 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:36:14.129 [main] INFO  -  not found 
+13:36:14.173 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:36:15.208 [main] INFO  -  not found 
+13:36:15.252 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:39:44.902 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+13:39:46.570 [main] INFO  -  Login page 
+13:39:46.652 [main] INFO  - testlabuser@yopmail.com
+13:39:46.711 [main] INFO  - Art@1234
+13:39:47.148 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+13:39:58.301 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 13:45:00 and appointment ID is 1966
+13:40:06.613 [main] INFO  -  not found 
+13:40:06.681 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:40:07.727 [main] INFO  -  not found 
+13:40:07.775 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:40:08.813 [main] INFO  -  not found 
+13:40:08.865 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:40:09.895 [main] INFO  -  not found 
+13:40:09.943 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:40:10.687 [main] INFO  - Appointment match 
+13:42:24.486 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+13:42:25.363 [main] INFO  -  Login page 
+13:42:25.488 [main] INFO  - testlabuser@yopmail.com
+13:42:25.563 [main] INFO  - Art@1234
+13:42:26.033 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+13:42:39.097 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 14:00:00 and appointment ID is 1967
+13:42:46.394 [main] INFO  -  not found 
+13:42:46.462 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:42:47.509 [main] INFO  -  not found 
+13:42:47.588 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:42:48.630 [main] INFO  -  not found 
+13:42:48.686 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:42:49.722 [main] INFO  -  not found 
+13:42:49.807 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:42:50.859 [main] INFO  -  not found 
+13:42:50.909 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:42:51.422 [main] INFO  - Appointment match 
+13:45:25.083 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+13:45:26.507 [main] INFO  -  Login page 
+13:45:26.623 [main] INFO  - testlabuser@yopmail.com
+13:45:26.689 [main] INFO  - Art@1234
+13:45:27.881 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+13:45:37.124 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 14:00:00 and appointment ID is 1968
+13:45:45.875 [main] INFO  -  not found 
+13:45:45.948 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:45:46.979 [main] INFO  -  not found 
+13:45:47.047 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:45:48.090 [main] INFO  -  not found 
+13:45:48.171 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:45:49.213 [main] INFO  -  not found 
+13:45:49.258 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:45:49.890 [main] INFO  - Appointment match 
+13:48:20.148 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+13:48:21.303 [main] INFO  -  Login page 
+13:48:21.392 [main] INFO  - testlabuser@yopmail.com
+13:48:21.448 [main] INFO  - Art@1234
+13:48:21.995 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+13:48:56.460 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 14:00:00 and appointment ID is 1969
+13:49:08.131 [main] INFO  -  not found 
+13:49:08.220 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:49:09.262 [main] INFO  -  not found 
+13:49:09.371 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:49:10.414 [main] INFO  -  not found 
+13:49:10.494 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:49:11.527 [main] INFO  -  not found 
+13:49:11.605 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:49:11.976 [main] INFO  - Appointment match 
+13:53:04.912 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+13:53:05.875 [main] INFO  -  Login page 
+13:53:05.975 [main] INFO  - testlabuser@yopmail.com
+13:53:06.031 [main] INFO  - Art@1234
+13:53:06.345 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+13:53:17.495 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 14:00:00 and appointment ID is 1970
+13:53:24.196 [main] INFO  -  not found 
+13:53:24.254 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:53:25.291 [main] INFO  -  not found 
+13:53:25.361 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:53:26.409 [main] INFO  -  not found 
+13:53:26.451 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:53:27.490 [main] INFO  -  not found 
+13:53:27.562 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+13:53:28.126 [main] INFO  - Appointment match 
+15:05:24.534 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+15:05:26.216 [main] INFO  -  Login page 
+15:05:26.335 [main] INFO  - testlabuser@yopmail.com
+15:05:26.394 [main] INFO  - Art@1234
+15:05:26.727 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+15:05:39.337 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 15:30:00 and appointment ID is 1971
+15:05:54.990 [main] INFO  -  not found 
+15:05:55.085 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:05:56.124 [main] INFO  -  not found 
+15:05:57.219 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:05:58.249 [main] INFO  -  not found 
+15:05:59.005 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:06:00.072 [main] INFO  -  not found 
+15:06:00.162 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:06:00.948 [main] INFO  - Appointment match 
+15:31:33.226 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+15:31:34.288 [main] INFO  -  Login page 
+15:31:34.383 [main] INFO  - testlabuser@yopmail.com
+15:31:34.443 [main] INFO  - Art@1234
+15:31:34.759 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+15:31:46.308 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 15:45:00 and appointment ID is 1972
+15:31:56.467 [main] INFO  -  not found 
+15:31:56.528 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:31:57.568 [main] INFO  -  not found 
+15:31:57.643 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:31:58.673 [main] INFO  -  not found 
+15:31:58.727 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:31:59.768 [main] INFO  -  not found 
+15:31:59.819 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:32:00.581 [main] INFO  - Appointment match 
+15:46:39.152 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+15:49:11.886 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+15:49:19.894 [main] INFO  -  Login page 
+15:49:20.027 [main] INFO  - testlabuser@yopmail.com
+15:49:20.084 [main] INFO  - Art@1234
+15:49:21.657 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+15:50:42.638 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+15:50:43.899 [main] INFO  -  Login page 
+15:50:43.983 [main] INFO  - testlabuser@yopmail.com
+15:50:44.039 [main] INFO  - Art@1234
+15:50:44.331 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+15:51:13.076 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 16:15:00 and appointment ID is 1974
+15:51:27.195 [main] INFO  -  not found 
+15:51:27.251 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:51:28.321 [main] INFO  -  not found 
+15:51:28.380 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:51:29.414 [main] INFO  -  not found 
+15:51:30.082 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:51:31.121 [main] INFO  -  not found 
+15:51:31.665 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:51:32.715 [main] INFO  -  not found 
+15:51:32.772 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:51:33.495 [main] INFO  - Appointment match 
+15:53:56.555 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+15:53:58.194 [main] INFO  -  Login page 
+15:53:58.273 [main] INFO  - testlabuser@yopmail.com
+15:53:58.331 [main] INFO  - Art@1234
+15:53:58.608 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+15:54:11.223 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 16:00:00 and appointment ID is 1975
+15:54:19.649 [main] INFO  -  not found 
+15:54:19.708 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:54:20.737 [main] INFO  -  not found 
+15:54:20.786 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:54:21.816 [main] INFO  -  not found 
+15:54:21.863 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:54:22.936 [main] INFO  -  not found 
+15:54:22.986 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+15:54:23.360 [main] INFO  - Appointment match 
+16:03:51.650 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+16:03:56.526 [main] INFO  -  Login page 
+16:03:56.639 [main] INFO  - testlabuser@yopmail.com
+16:03:56.697 [main] INFO  - Art@1234
+16:03:57.222 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+16:04:08.106 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-02 16:15:00 and appointment ID is 1976
+16:04:16.819 [main] INFO  -  not found 
+16:04:16.893 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+16:04:17.932 [main] INFO  -  not found 
+16:04:17.980 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+16:04:19.019 [main] INFO  -  not found 
+16:04:19.067 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+16:04:20.099 [main] INFO  -  not found 
+16:04:20.160 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+16:04:21.200 [main] INFO  -  not found 
+16:04:21.250 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+16:04:21.688 [main] INFO  - Appointment match 
+11:19:50.118 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+11:19:51.283 [main] INFO  -  Login page 
+11:20:08.187 [main] INFO  - testlabuser@yopmail.com
+11:20:08.241 [main] INFO  - Art@1234
+11:20:10.425 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+11:20:19.645 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-24 11:30:00 and appointment ID is 1978
+11:20:28.057 [main] INFO  -  not found 
+11:20:28.139 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+11:20:28.630 [main] INFO  - Appointment match 
+11:22:49.883 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+11:22:51.030 [main] INFO  -  Login page 
+11:23:04.911 [main] INFO  - testlabuser@yopmail.com
+11:23:04.980 [main] INFO  - Art@1234
+11:23:47.065 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+11:23:56.766 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-24 11:45:00 and appointment ID is 1979
+11:24:04.538 [main] INFO  -  not found 
+11:24:04.610 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+11:24:05.637 [main] INFO  -  not found 
+11:24:05.709 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+11:24:06.111 [main] INFO  - Appointment match 
+11:26:25.162 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+11:26:26.292 [main] INFO  -  Login page 
+11:26:37.301 [main] INFO  - testlabuser@yopmail.com
+11:26:37.379 [main] INFO  - Art@1234
+11:26:37.918 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+12:10:09.416 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+12:10:10.478 [main] INFO  -  Login page 
+12:10:10.576 [main] INFO  - testlabuser@yopmail.com
+12:10:10.638 [main] INFO  - Art@1234
+12:10:11.154 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+12:10:20.491 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-24 12:15:00 and appointment ID is 1980
+12:10:27.105 [main] INFO  -  not found 
+12:10:27.174 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+12:10:28.215 [main] INFO  -  not found 
+12:10:28.261 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+12:10:29.303 [main] INFO  -  not found 
+12:10:29.348 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+12:10:29.835 [main] INFO  - Appointment match 
+12:13:38.744 [main] INFO  - =====Start bookclinicconsultationandverifysameappointment=====
+12:13:39.902 [main] INFO  -  Login page 
+12:13:40.006 [main] INFO  - testlabuser@yopmail.com
+12:13:40.082 [main] INFO  - Art@1234
+12:13:40.549 [main] INFO  - Enterd Username = testlabuser@yopmail.comPassword = Art@1234
+12:13:51.217 [main] INFO  - The appointment with Dr. Rakib Ansar has been scheduled succesfully on 2024-10-24 12:30:00 and appointment ID is 1981
+12:14:00.680 [main] INFO  -  not found 
+12:14:00.736 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+12:14:01.768 [main] INFO  -  not found 
+12:14:01.819 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+12:14:02.854 [main] INFO  -  not found 
+12:14:02.898 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+12:14:03.935 [main] INFO  -  not found 
+12:14:03.990 [main] INFO  - (//div[@class="arrow-div p-1 ml-3 cursor-pointer"]) not found 
+12:14:05.086 [main] INFO  - Appointment match 
+14:55:01.313 [main] INFO  - =======Start Login verification======

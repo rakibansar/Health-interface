@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suit">
+<listeners>
+		<listener class-name="healthinterface.doctorweb.ListenerClass"></listener>
+	</listeners>
+  <test  name="Test_ALL">
+   <parameter name="weburl" value="https://pf.healthinterface.com/"></parameter>
+
+       <classes>
+       
+			<class name="Testcase.Logintestcase" />
+			<class name="Testcase.Hometestcase" />
+			<class name="Testcase.DashboardTestCases" />
+			<class name="Testcase.Myclinictestcases" />
+
+
+
+		</classes>  
+		
+</test> <!-- Test -->
+</suite> <!-- Suite -->

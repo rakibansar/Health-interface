@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suit">
+<listeners>
+		<listener class-name="healthinterface.doctorweb.ListenerClass"></listener>
+	</listeners>
+
+  <test thread-count="5" name="Smoke">
+   <parameter name="weburl" value="https://pf.healthinterface.com/"></parameter>
+        
+         <groups>
+			<run>
+				<include name="Smoke"></include>
+			</run>
+		</groups>
+		
+       <classes>
+
+       		<class name="Testcase.Logintestcase" />
+			<class name="Testcase.Hometestcase" />
+			<class name="Testcase.DashboardTestCases" />
+
+	   </classes>  
+		
+</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
