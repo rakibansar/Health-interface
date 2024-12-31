@@ -21,7 +21,6 @@ jobs:
           java-version: '23'
           cache: maven
           
-      - name: Install TestNG dependency (if not already present)
-        run: mvn dependency:get -DgroupId=org.testng -DartifactId=testng -Dversion=7.10.2 -Dclassifier=jar
+      
       - name: Build with Maven
         run: mvn clean test --file pom.xml
